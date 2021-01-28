@@ -1,12 +1,12 @@
 [
     {
         "usedItems": [],
-        "category_name": "3 Stars",
+        "category_name": "Category",
         "curr-weighting": 1,
         "items": [
             {        
                 "original-quant": 1,
-                "name": "Gudetama A",
+                "name": "Item",
                 "curr-quant": 1
             }
         ],
