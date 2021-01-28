@@ -13,11 +13,11 @@ Open with Visual Studio Code and run or manually compile and run frontend.main.j
 - Download JavaFX SDK (https://gluonhq.com/products/javafx/)
 - Extract out the lib and bin file, copy the lib contents into the newly
 lib folder. Extract bin as well.
-Folder structure should be 
-ItemSpin
-    -> bin
-    -> lib
-    -> src
+Folder structure should be <br>
+ItemSpin <br>
+    -> bin <br>
+    -> lib <br>
+    -> src <br>
 - Download the org.json jar (https://jar-download.com/artifacts/org.json) and 
 extract it to the lib folder as well.
 - Compile the program frontend.Main, do not forget to add module path
