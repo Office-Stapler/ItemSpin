@@ -1,15 +1,41 @@
 [
     {
         "usedItems": [],
-        "category_name": "Category",
+        "category_name": "Category1",
         "curr-weighting": 1,
         "items": [
             {        
-                "original-quant": 1,
-                "name": "Item",
-                "curr-quant": 1
+                "original-quant": 5,
+                "name": "Item1",
+                "curr-quant": 5
             }
         ],
-        "original-weighting": 3
+        "original-weighting": 1
+    },
+    {
+        "usedItems": [],
+        "category_name": "Category2",
+        "curr-weighting": 1,
+        "items": [
+            {        
+                "original-quant": 5,
+                "name": "Item2",
+                "curr-quant": 5
+            }
+        ],
+        "original-weighting": 1
+    },
+    {
+        "usedItems": [],
+        "category_name": "Category3",
+        "curr-weighting": 98,
+        "items": [
+            {        
+                "original-quant": 5,
+                "name": "Item3",
+                "curr-quant": 5
+            }
+        ],
+        "original-weighting": 98
     }
 ]
