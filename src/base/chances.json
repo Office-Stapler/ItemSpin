@@ -1,0 +1,15 @@
+[
+    {
+        "usedItems": [],
+        "category_name": "Category",
+        "curr-weighting": 1,
+        "items": [
+            {        
+                "original-quant": 1,
+                "name": "Item",
+                "curr-quant": 1
+            }
+        ],
+        "original-weighting": 3
+    }
+]
