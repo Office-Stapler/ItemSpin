@@ -26,3 +26,4 @@ extract it to the lib folder as well.
 
 # Example
 ![Example GIF](https://github.com/Office-Stapler/ItemSpin/blob/main/example.gif)
+The image can be changed under "logo.png"
