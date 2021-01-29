@@ -23,3 +23,6 @@ All extracted folders and created directories are outside of src.
 extract it to the lib folder as well.
 - Compile the program frontend.Main, do not forget to add module path
 (--add-modules "javafx.controls,javafx.fxml,javafx.media,json" --module-path "./lib")
+
+# Example
+![Example GIF](https://github.com/Office-Stapler/ItemSpin/blob/main/example.gif)
